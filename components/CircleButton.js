@@ -18,11 +18,11 @@ const styles = StyleSheet.create({
         marginHorizontal: 60,
         borderWidth: 4,
         borderColor: "#ffd33d",
-        borderradius: 42,
+        borderRadius: 42,
         padding: 3,
     },
     circleButton:{
-        fles: 1,
+        flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
         borderRadius: 42,
